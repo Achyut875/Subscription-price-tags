@@ -1,0 +1,29 @@
+.father{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card{
+    width: 370px;  
+}
+
+.card-header{
+    width: 350px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+#note{
+    display: flex;
+    justify-content: center;
+}
+
+.card-title{
+    font-size: 2rem;
+    font-weight: 500;
+}
